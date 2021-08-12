@@ -263,6 +263,7 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Localization\ViewResources.de-DE.resx" />
     <EmbeddedResource Include="Localization\ViewResources.es-ES.resx" />
+    <EmbeddedResource Include="Localization\ViewResources.vi-VI.resx" />
     <EmbeddedResource Include="Localization\ViewResources.ja-JP.resx" />
     <EmbeddedResource Include="Localization\ViewResources.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
