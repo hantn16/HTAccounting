@@ -145,6 +145,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>ViewResources.resx</DependentUpon>
     </Compile>
+    <Compile Include="Model\Account.cs" />
     <Compile Include="ViewModels\Course\CourseCollectionViewModel.cs" />
     <Compile Include="ViewModels\Course\CourseViewModel.cs" />
     <Compile Include="ViewModels\Department\DepartmentCollectionViewModel.cs" />
